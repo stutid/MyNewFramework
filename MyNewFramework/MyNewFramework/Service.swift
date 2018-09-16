@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Service {
+public class Service {
     
     private init() {}
     
